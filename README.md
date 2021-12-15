@@ -13,7 +13,7 @@ Although various methods have been adopted to analyze cryptocurrency trends such
 It is suitable for the field as it extracts information from multidimensional data instead of trying to fit a model. It attempts to describe the shape of data cloud points. The topological information thus obtained gives qualitative differences which allows recognition of patterns among the data.
 
 ## Approach
-We apply TDA on Bitcoin time series data from 2016 to 2019 to get the L1 norm of the persistent landscape. On the output obtained, we apply different algorithms, k-means, Gaussian Mixture Models, Fuzzy C-Means, to show the dependence between two time series. We also compare the different models and find which TDA based methodology is the most suitable for identifying critical transitions.
+In this novel approach, TDA is applied on Bitcoin time series data from 2016 to 2019 to get the L1 norm of the persistent landscape. On the output obtained, different clustering algorithms are applied, k-means, Gaussian Mixture Models, Fuzzy C-Means; to show the dependence between two time series. A comparative analysis on the different models is carried out to find which TDA based methodology is the most suitable for identifying critical transitions.
 
 
 
