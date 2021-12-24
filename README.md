@@ -1,7 +1,7 @@
 ### This is a work in progress
 
 
-# Prediction of bubble burst in bitcoin market using TDA based methodology and  Clustering: Assessment of historical bubbles.
+# Prediction of bubble burst in bitcoin market using TDA based methodology and Clustering: Assessment of historical bubbles.
 
 ## Cryptocurrency
 A cryptocurrency is a form of digital currency based upon blockchain technology that keeps an online ledger of transactions and is highly secured. The decentralized cryptocurrency was first introduced in 2009 by Satoshi Nakamoto. He introduced Bitcoin in his paper [^1] as a peer to peer electronic cash system. Now, more than a decade later, a large number of cryptocurrencies have emerged in the market. The major cryptocurrencies are Bitcoin, Ethereum, Binance Coin, Tether and Solana. Bitcoin is focused upon in this paper.
